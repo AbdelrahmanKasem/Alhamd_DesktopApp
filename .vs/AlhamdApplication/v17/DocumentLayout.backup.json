@@ -1,0 +1,801 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\AlhamdApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\frmaddcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\frmaddcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\frmaddcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\frmaddcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\uccustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\uccustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|e:\\alhamdapplication\\alhamdapplication\\frmviewsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\frmviewsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\frmviewsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\frmviewsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\frmviewcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\frmviewcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\frmviewcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\frmviewcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\frmviewproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\frmviewproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\frmviewemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\frmviewemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\frmsuppliertransactionitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\frmsuppliertransactionitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\frmsupplierbuy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\frmsupplierbuy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\frmcustomertransactionitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\frmcustomertransactionitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\frmcustomersell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\frmcustomersell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\frmaddsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\frmaddsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\frmaddproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\frmaddproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\frmaddexpenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\frmaddexpenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\frmaddemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\frmaddemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\ucexpenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\ucexpenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\ucexpenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\ucexpenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\uccustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\uccustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\frmviewproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\frmviewproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|AlhamdApplication||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\ucsuppliertransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\ucsuppliertransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\ucsuppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\ucsuppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\ucproducttransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\ucproducttransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\ucproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\ucproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\ucemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\ucemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\ucdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\ucdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\uccustomertransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\uccustomertransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\frmsuppliertransactionitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\frmsuppliertransactionitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\frmcustomertransactionitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\frmcustomertransactionitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\uccustomertransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\uccustomertransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\frmcustomersell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\frmcustomersell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\ucdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\ucdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\ucsuppliertransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\ucsuppliertransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\ucsuppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\ucsuppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\ucproducttransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\ucproducttransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\ucproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\ucproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\ucemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\ucemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\frmviewemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\frmviewemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\frmsupplierbuy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\frmsupplierbuy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\frmaddsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\frmaddsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\frmaddproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\frmaddproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\frmaddexpenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\frmaddexpenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|E:\\AlhamdApplication\\alhamdapplication\\frmaddemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0817D390-7CC7-488E-B005-FC6DB41C59AE}|AlhamdApplication\\AlhamdApplication.csproj|solutionrelative:alhamdapplication\\frmaddemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmViewSupplier.cs",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\frmViewSupplier.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\frmViewSupplier.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\frmViewSupplier.cs",
+              "RelativeToolTip": "AlhamdApplication\\frmViewSupplier.cs",
+              "ViewState": "AgIAAKkAAACAzMzMzEwjwNYAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T19:06:18.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmViewCustomer.cs",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\frmViewCustomer.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\frmViewCustomer.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\frmViewCustomer.cs",
+              "RelativeToolTip": "AlhamdApplication\\frmViewCustomer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T19:03:21.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmAddCustomer.cs [Design]",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\frmAddCustomer.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\frmAddCustomer.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\frmAddCustomer.cs [Design]",
+              "RelativeToolTip": "AlhamdApplication\\frmAddCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:22:03.071Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmAddCustomer.cs",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\frmAddCustomer.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\frmAddCustomer.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\frmAddCustomer.cs",
+              "RelativeToolTip": "AlhamdApplication\\frmAddCustomer.cs",
+              "ViewState": "AgIAADgAAABAlZmZmZkgwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:54:27.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ucCustomers.cs [Design]",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\ucCustomers.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\ucCustomers.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\ucCustomers.cs [Design]",
+              "RelativeToolTip": "AlhamdApplication\\ucCustomers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:32:45.799Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmViewEmployee.cs [Design]",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\frmViewEmployee.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\frmViewEmployee.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\frmViewEmployee.cs [Design]",
+              "RelativeToolTip": "AlhamdApplication\\frmViewEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:13:15.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmViewCustomer.cs [Design]",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\frmViewCustomer.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\frmViewCustomer.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\frmViewCustomer.cs [Design]",
+              "RelativeToolTip": "AlhamdApplication\\frmViewCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T19:53:39.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmViewSupplier.cs [Design]",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\frmViewSupplier.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\frmViewSupplier.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\frmViewSupplier.cs [Design]",
+              "RelativeToolTip": "AlhamdApplication\\frmViewSupplier.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:44:52.627Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmSupplierTransactionItems.cs [Design]",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\frmSupplierTransactionItems.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\frmSupplierTransactionItems.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\frmSupplierTransactionItems.cs [Design]",
+              "RelativeToolTip": "AlhamdApplication\\frmSupplierTransactionItems.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T20:39:32.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmViewProduct.cs [Design]",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\frmViewProduct.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\frmViewProduct.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\frmViewProduct.cs [Design]",
+              "RelativeToolTip": "AlhamdApplication\\frmViewProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T10:29:59.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmSupplierBuy.cs [Design]",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\frmSupplierBuy.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\frmSupplierBuy.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\frmSupplierBuy.cs [Design]",
+              "RelativeToolTip": "AlhamdApplication\\frmSupplierBuy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T19:13:16.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\frmMain.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\frmMain.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\frmMain.cs [Design]",
+              "RelativeToolTip": "AlhamdApplication\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:22:35.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\frmLogin.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\frmLogin.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\frmLogin.cs [Design]",
+              "RelativeToolTip": "AlhamdApplication\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T20:17:52.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmCustomerTransactionItems.cs [Design]",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\frmCustomerTransactionItems.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\frmCustomerTransactionItems.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\frmCustomerTransactionItems.cs [Design]",
+              "RelativeToolTip": "AlhamdApplication\\frmCustomerTransactionItems.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:17:07.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmCustomerSell.cs [Design]",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\frmCustomerSell.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\frmCustomerSell.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\frmCustomerSell.cs [Design]",
+              "RelativeToolTip": "AlhamdApplication\\frmCustomerSell.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:56:40.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmAddSupplier.cs [Design]",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\frmAddSupplier.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\frmAddSupplier.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\frmAddSupplier.cs [Design]",
+              "RelativeToolTip": "AlhamdApplication\\frmAddSupplier.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:55:30.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmAddProduct.cs [Design]",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\frmAddProduct.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\frmAddProduct.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\frmAddProduct.cs [Design]",
+              "RelativeToolTip": "AlhamdApplication\\frmAddProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:55:13.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmAddExpenses.cs [Design]",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\frmAddExpenses.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\frmAddExpenses.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\frmAddExpenses.cs [Design]",
+              "RelativeToolTip": "AlhamdApplication\\frmAddExpenses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:55:02.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmAddEmployee.cs [Design]",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\frmAddEmployee.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\frmAddEmployee.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\frmAddEmployee.cs [Design]",
+              "RelativeToolTip": "AlhamdApplication\\frmAddEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:54:49.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\frmMain.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\frmMain.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\frmMain.cs",
+              "RelativeToolTip": "AlhamdApplication\\frmMain.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAlwIkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:22:39.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ucExpenses.cs",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\ucExpenses.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\ucExpenses.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\ucExpenses.cs",
+              "RelativeToolTip": "AlhamdApplication\\ucExpenses.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAmwBkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T19:09:25.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ucExpenses.cs [Design]",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\ucExpenses.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\ucExpenses.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\ucExpenses.cs [Design]",
+              "RelativeToolTip": "AlhamdApplication\\ucExpenses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:20:55.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ucCustomers.cs",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\ucCustomers.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\ucCustomers.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\ucCustomers.cs",
+              "RelativeToolTip": "AlhamdApplication\\ucCustomers.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:37:51.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmViewProduct.cs",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\frmViewProduct.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\frmViewProduct.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\frmViewProduct.cs",
+              "RelativeToolTip": "AlhamdApplication\\frmViewProduct.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAowJQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T19:05:28.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ucProductTransactions.cs [Design]",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\ucProductTransactions.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\ucProductTransactions.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\ucProductTransactions.cs [Design]",
+              "RelativeToolTip": "AlhamdApplication\\ucProductTransactions.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:52:01.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ucProducts.cs [Design]",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\ucProducts.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\ucProducts.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\ucProducts.cs [Design]",
+              "RelativeToolTip": "AlhamdApplication\\ucProducts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:51:44.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AlhamdApplication",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\AlhamdApplication.csproj",
+              "RelativeDocumentMoniker": "AlhamdApplication\\AlhamdApplication.csproj",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\AlhamdApplication.csproj",
+              "RelativeToolTip": "AlhamdApplication\\AlhamdApplication.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-02T18:12:28.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\App.config",
+              "RelativeDocumentMoniker": "AlhamdApplication\\App.config",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\App.config",
+              "RelativeToolTip": "AlhamdApplication\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-02T18:14:11.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ucSuppliers.cs [Design]",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\ucSuppliers.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\ucSuppliers.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\ucSuppliers.cs [Design]",
+              "RelativeToolTip": "AlhamdApplication\\ucSuppliers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:52:08.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ucSupplierTransactions.cs [Design]",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\ucSupplierTransactions.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\ucSupplierTransactions.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\ucSupplierTransactions.cs [Design]",
+              "RelativeToolTip": "AlhamdApplication\\ucSupplierTransactions.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:52:16.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ucEmployees.cs [Design]",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\ucEmployees.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\ucEmployees.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\ucEmployees.cs [Design]",
+              "RelativeToolTip": "AlhamdApplication\\ucEmployees.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:51:18.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ucDashboard.cs [Design]",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\ucDashboard.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\ucDashboard.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\ucDashboard.cs [Design]",
+              "RelativeToolTip": "AlhamdApplication\\ucDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:33:21.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ucCustomerTransactions.cs [Design]",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\ucCustomerTransactions.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\ucCustomerTransactions.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\ucCustomerTransactions.cs [Design]",
+              "RelativeToolTip": "AlhamdApplication\\ucCustomerTransactions.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:33:14.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmSupplierTransactionItems.cs",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\frmSupplierTransactionItems.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\frmSupplierTransactionItems.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\frmSupplierTransactionItems.cs",
+              "RelativeToolTip": "AlhamdApplication\\frmSupplierTransactionItems.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T19:02:27.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "frmCustomerTransactionItems.cs",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\frmCustomerTransactionItems.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\frmCustomerTransactionItems.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\frmCustomerTransactionItems.cs",
+              "RelativeToolTip": "AlhamdApplication\\frmCustomerTransactionItems.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAgwGwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:57:12.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ucCustomerTransactions.cs",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\ucCustomerTransactions.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\ucCustomerTransactions.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\ucCustomerTransactions.cs",
+              "RelativeToolTip": "AlhamdApplication\\ucCustomerTransactions.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAlwIwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T19:08:35.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ucDashboard.cs",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\ucDashboard.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\ucDashboard.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\ucDashboard.cs",
+              "RelativeToolTip": "AlhamdApplication\\ucDashboard.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T19:08:55.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "frmCustomerSell.cs",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\frmCustomerSell.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\frmCustomerSell.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\frmCustomerSell.cs",
+              "RelativeToolTip": "AlhamdApplication\\frmCustomerSell.cs",
+              "ViewState": "AgIAABoCAAAAAAAAAAAIwCMCAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:55:42.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ucProducts.cs",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\ucProducts.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\ucProducts.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\ucProducts.cs",
+              "RelativeToolTip": "AlhamdApplication\\ucProducts.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T19:10:31.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ucProductTransactions.cs",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\ucProductTransactions.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\ucProductTransactions.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\ucProductTransactions.cs",
+              "RelativeToolTip": "AlhamdApplication\\ucProductTransactions.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAmwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T19:10:41.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ucSuppliers.cs",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\ucSuppliers.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\ucSuppliers.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\ucSuppliers.cs",
+              "RelativeToolTip": "AlhamdApplication\\ucSuppliers.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAIwDcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T19:11:15.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ucSupplierTransactions.cs",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\ucSupplierTransactions.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\ucSupplierTransactions.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\ucSupplierTransactions.cs",
+              "RelativeToolTip": "AlhamdApplication\\ucSupplierTransactions.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAmwIEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T19:11:33.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ucEmployees.cs",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\ucEmployees.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\ucEmployees.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\ucEmployees.cs",
+              "RelativeToolTip": "AlhamdApplication\\ucEmployees.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T19:09:14.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "frmViewEmployee.cs",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\frmViewEmployee.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\frmViewEmployee.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\frmViewEmployee.cs",
+              "RelativeToolTip": "AlhamdApplication\\frmViewEmployee.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAuwHwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T19:04:52.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "frmSupplierBuy.cs",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\frmSupplierBuy.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\frmSupplierBuy.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\frmSupplierBuy.cs",
+              "RelativeToolTip": "AlhamdApplication\\frmSupplierBuy.cs",
+              "ViewState": "AgIAAOQBAAAAAAAAAAAwwPwBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T19:00:52.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "frmAddSupplier.cs",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\frmAddSupplier.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\frmAddSupplier.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\frmAddSupplier.cs",
+              "RelativeToolTip": "AlhamdApplication\\frmAddSupplier.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:55:32.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\frmLogin.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\frmLogin.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\frmLogin.cs",
+              "RelativeToolTip": "AlhamdApplication\\frmLogin.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAIwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T20:17:53.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "frmAddProduct.cs",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\frmAddProduct.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\frmAddProduct.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\frmAddProduct.cs",
+              "RelativeToolTip": "AlhamdApplication\\frmAddProduct.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:55:15.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "frmAddExpenses.cs",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\frmAddExpenses.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\frmAddExpenses.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\frmAddExpenses.cs",
+              "RelativeToolTip": "AlhamdApplication\\frmAddExpenses.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:55:03.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "frmAddEmployee.cs",
+              "DocumentMoniker": "E:\\AlhamdApplication\\AlhamdApplication\\frmAddEmployee.cs",
+              "RelativeDocumentMoniker": "AlhamdApplication\\frmAddEmployee.cs",
+              "ToolTip": "E:\\AlhamdApplication\\AlhamdApplication\\frmAddEmployee.cs",
+              "RelativeToolTip": "AlhamdApplication\\frmAddEmployee.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:54:50.686Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
