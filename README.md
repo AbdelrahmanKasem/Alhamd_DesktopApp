@@ -40,4 +40,4 @@ cd Alhamd_DesktopApp
 ### 5️⃣ Open Visual Studio.
 ### 6️⃣ Search for "App.config" file.
 ### 7️⃣ Change the connection string in "App.config" to your connection string.
-### 8️⃣ Run the project and Feel free to modify and create with creativity.
+### 8️⃣ Run the project and feel free to modify and create with creativity.
