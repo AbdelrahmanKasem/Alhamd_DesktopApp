@@ -1,5 +1,1 @@
-## Database Setup
-1. Download the database backup from https://drive.google.com/file/d/1CBWa23B8afSynl0WXOqQJ5gthzbr6X_X/view?usp=sharing
-2. Open SQL Server Management Studio (SSMS).
-3. Restore the `.bak` file using "Restore Database" option.
-4. Change the connection string in App.config to your connection string.
+
