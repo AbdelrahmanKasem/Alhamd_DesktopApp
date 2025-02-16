@@ -34,7 +34,7 @@ Follow these steps to set up and run the application:
 git clone https://github.com/AbdelrahmanKasem/Alhamd_DesktopApp.git
 cd Alhamd_DesktopApp
 ```
-### 2️⃣ Download the database backup from (here(https://drive.google.com/file/d/1CBWa23B8afSynl0WXOqQJ5gthzbr6X_X/view?usp=sharing))
+### 2️⃣ Download the database backup from ([here](https://drive.google.com/file/d/1CBWa23B8afSynl0WXOqQJ5gthzbr6X_X/view?usp=sharing))
 ### 3️⃣ Open SQL Server Management Studio (SSMS).
 ### 4️⃣ Restore the .bak file using the "Restore Database" option.
 ### 5️⃣ Open Visual Studio.
